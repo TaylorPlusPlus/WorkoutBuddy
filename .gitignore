@@ -1,0 +1,13 @@
+# angular
+code_coverage/
+dist/
+test_coverage/
+
+# macos
+.DS_Store
+
+# nodejs
+node_modules/
+
+# sonarqube
+.scannerwork/
